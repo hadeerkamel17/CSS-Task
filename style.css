@@ -1,0 +1,41 @@
+
+
+.header__logo-box {
+    position: absolute;
+    top: 4rem;
+    left: 4rem;
+    color:red;
+}
+#header__logo {
+    color:blue;
+}
+#header__logo span {
+    color:brown;
+}
+
+.right {
+    float: right;
+}
+.fname{
+   font-size: 14px;; 
+}
+#fname{
+    width: 100px;
+    height: 50px;
+}
+.lname{
+    font-size: 14px;; 
+ }
+#lname{
+    width: 100px;
+    height: 50px;
+}
+#demo {
+    color: blue;
+}
+.test {
+    color: green;
+} 
+p {
+    color: red;
+}
